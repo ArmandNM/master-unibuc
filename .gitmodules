@@ -1,3 +1,6 @@
 [submodule "computer-vision"]
 	path = computer-vision
 	url = git@github.com:ArmandNM/sudoku-vision.git
+[submodule "advanced-machine-learning"]
+	path = advanced-machine-learning
+	url = git@github.com:ArmandNM/advanced-machine-learning.git

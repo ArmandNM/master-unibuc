@@ -16,9 +16,8 @@ git clone --recurse-submodules --j8 git@github.com:ArmandNM/master-unibuc.git
 * *Exploratory Data Analysis*
 
 **1st Year** - *2nd Semester*
-* *Advanced Machine Learning*
+* [*Advanced Machine Learning*](https://github.com/ArmandNM/advanced-machine-learning)
 * [*Computer Vision*](https://github.com/ArmandNM/sudoku-vision)
-
 * *Natural Language Processing I*
 * *Big Data*
 
