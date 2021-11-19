@@ -1,0 +1,3 @@
+[submodule "computer-vision"]
+	path = computer-vision
+	url = git@github.com:ArmandNM/sudoku-vision.git
