@@ -11,8 +11,8 @@ git clone --recurse-submodules --j8 git@github.com:ArmandNM/master-unibuc.git
 ### Courses:
 **1st Year** - *1st Semester*
 * *Practical Machine Learning*
-* *Probabilistic Programming*
-* *Knowledge Representation and Reasoning*
+* [*Probabilistic Programming*](https://github.com/ArmandNM/probabilistic-programming)
+* [*Knowledge Representation and Reasoning*](https://github.com/ArmandNM/knowledge-representation-and-reasoning)
 * *Exploratory Data Analysis*
 
 **1st Year** - *2nd Semester*
@@ -25,4 +25,4 @@ git clone --recurse-submodules --j8 git@github.com:ArmandNM/master-unibuc.git
 * *Deep Learning*
 * *Information Retrieval and Text Mining*
 * *Natural Language Processing II*
-* *Complex Network Analysis*
+* [*Complex Network Analysis* ](https://github.com/ArmandNM/complex-network-analysis)

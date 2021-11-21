@@ -4,3 +4,12 @@
 [submodule "advanced-machine-learning"]
 	path = advanced-machine-learning
 	url = git@github.com:ArmandNM/advanced-machine-learning.git
+[submodule "complex-network-analysis"]
+	path = complex-network-analysis
+	url = git@github.com:ArmandNM/complex-network-analysis.git
+[submodule "knowledge-representation-and-reasoning"]
+	path = knowledge-representation-and-reasoning
+	url = git@github.com:ArmandNM/knowledge-representation-and-reasoning.git
+[submodule "probabilistic-programming"]
+	path = probabilistic-programming
+	url = git@github.com:ArmandNM/probabilistic-programming.git
